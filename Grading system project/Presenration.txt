@@ -1,0 +1,33 @@
+                                                             السلام عليكم و رحمة الله و بركاته 
+
+1-We will press 5 we expect to find -->"no data to show" 
+
+                       ****************************************
+
+2- We Will input Data from the file "studnts.txt"
+3-we will press 5 to show arranged data
+4-we will input new student "Ahmed Essam Ahmed" & 3 times out of range degrees
+5-we will input new student "Ahmed Essam Ahmed" 1500 
+6-we will input a duplicated name "Abdelrahman Adel Hashiem"
+
+                       ***************************************
+
+7-we will entre unstored name
+8-We will modify "Antonious John Michel" to "ziad Hossam Magdi"
+9-We will modify his degree from 1200 to 1100 but we will entre it 2 times out of range
+
+
+                      ***************************************
+
+10-we will reser degree of both "Undertaker"&"John Cena"
+11-we will entre unstored name
+
+                      ***************************************
+
+12-We will get degrees of "Nada Tarek Mahmoud" & "Omar Adel Hashiem"
+13-We will input unstored name
+
+                      ***************************************
+
+14-finally we will terminate the program
+                                                            
